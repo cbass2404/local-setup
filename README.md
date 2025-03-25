@@ -10,4 +10,4 @@
 
 ## Setup git commit process with macOS
 
-[Link to instructions](https://www.google.com)
+[Link to instructions](https://zxtech.wordpress.com/2020/03/29/setting-textedit-as-default-git-editor/)
